@@ -148,13 +148,3 @@ function filterByNoOfAwardsxTeamxAge(noOfAwards, t, a){
    return final;
 }
 
-//Progression 9 - Sort players in descending order of their age
-
-
-
-//Progression 10 - Sort players beloging to _____ team in descending order of awards won
-
-//Challenge 1 - Sort players that have won _______ award _____ times and belong to _______ country in alphabetical order of their names
-
-//Challenge 2 - Sort players that are older than _____ years in alphabetical order
-//Sort the awards won by them in reverse chronological order
